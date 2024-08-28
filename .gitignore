@@ -6,7 +6,7 @@ __pycache__/
 .pkl
 /script
 venv/
-
+src/checkpoint
 
 # local env files
 .env.local
